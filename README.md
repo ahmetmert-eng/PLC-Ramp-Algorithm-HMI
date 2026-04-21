@@ -1,6 +1,6 @@
 # 🚀 PLC Rampa Algoritması ve HMI Simülasyonu
 
-Bu proje, endüstriyel otomasyon sistemleri için **Structured Text (ST)** kullanılarak yazılmış bir hızlanma ve yavaşlama rampa algoritmasını içermektedir. Projede ayrıca algoritmanın sistem üzerindeki etkilerini gözlemleyebilmek için tasarlanmış bir **HMI arayüzü** ve simülasyon videosu bulunmaktadır.
+Bu proje, endüstriyel otomasyon sistemleri için codesys 3.15.18.0 versiyonu kulanilarak ve **Structured Text (ST)** kullanılarak yazılmış bir hızlanma ve yavaşlama rampa algoritmasını içermektedir. Projede ayrıca algoritmanın sistem üzerindeki etkilerini gözlemleyebilmek için tasarlanmış bir **HMI arayüzü** ve simülasyon videosu bulunmaktadır.
 
 ## 🖥️ HMI Arayüzü
 Aşağıda sistemin kontrol edildiği ve anlık hız/ivme değerlerinin izlendiği HMI tasarımı yer almaktadır:
